@@ -11,16 +11,22 @@
 ##  How It Works
 git push origin main
 ↓
+
 GitHub Actions: Run Tests
 ↓
+
 Build Docker Image
 ↓
+
 Push to Docker Hub
 ↓
+
 SSH into AWS EC2
 ↓
+
 Pull & Run new container
 ↓
+
 App live on internet!
 
 # DevOps Pipeline
@@ -40,3 +46,14 @@ devops-pipeline/
 │   └── workflows/
 │       └── deploy.yml            # CI/CD pipeline
 └── README.md
+##  Pipeline 
+
+> Add your GitHub Actions screenshot here after first successful run
+
+
+
+
+
+
+
+
