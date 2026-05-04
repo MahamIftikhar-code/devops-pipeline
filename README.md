@@ -12,20 +12,26 @@
 git push origin main
 ↓
 
+
 GitHub Actions: Run Tests
 ↓
+
 
 Build Docker Image
 ↓
 
+
 Push to Docker Hub
 ↓
+
 
 SSH into AWS EC2
 ↓
 
+
 Pull & Run new container
 ↓
+
 
 App live on internet!
 
