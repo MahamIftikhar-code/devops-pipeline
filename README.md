@@ -36,7 +36,8 @@ devops-pipeline/
 
 ##  Pipeline 
 
-> Add your GitHub Actions screenshot here after first successful run
+<img width="1805" height="864" alt="Screenshot (654)" src="https://github.com/user-attachments/assets/8c725f10-3510-4ca0-bb34-bf6efc042fe1" />
+
 
 
 
